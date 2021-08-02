@@ -1,0 +1,28 @@
+name: TozmicMob
+version: ${project.version}
+main: com.tozmic.tozmicmob.TozmicMob
+api-version: 1.16
+author: Tozmic
+description: custom natural spawning mob
+discord: Toz#2443
+commands:
+  tozmicmob:
+    description: plugin author information
+    usage: /<command>
+    aliases: [tozmic, tozmicmob]
+  turtle:
+    description: spawns turtle helmet
+    usage: /<command>
+    permission: tozmicmob.turtle
+  freeze:
+    description: freezes player
+    usage: /<command> <player>
+    permission: tozmicmob.freeze
+  unfreeze:
+    description: unfreezes player
+    usage: /<command> <player>
+    permission: tozmicmob.unfreeze
+
+
+
+
