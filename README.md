@@ -1,5 +1,4 @@
 # TozmicMob
-mobs
 
 Hello, my name is Sean Mendez. I am a 4th year engineering student and am always looking to learn about new technologies. Originally I coded this plugin many months ago for perosonal/server use but I decided to post it here due to requests.  
 
