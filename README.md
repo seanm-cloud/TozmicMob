@@ -1,6 +1,6 @@
 # TozmicMob
 
-Hello, my name is Sean Mendez. I am a 4th year engineering student and am always looking to learn about new technologies. Originally I coded this plugin many months ago for perosonal/server use but I decided to post it here due to requests.  
+Hello, my name is Sean Mendez. I am a 4th year engineering student and am always looking to learn about new technologies. Originally I coded this plugin many months ago for personal/server use but I decided to post it here due to requests.  
 
 The plugin is designed to only work with paper spigot 1.6.4 for best optimization and capabilities. 
 
